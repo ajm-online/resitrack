@@ -1,0 +1,158 @@
+{
+  "NSCLC / Lung Cancer": [
+    "Advanced EGFR+ NSCLC",
+    "Advanced NSCLC",
+    "Lung Cancer",
+    "NSCLC",
+    "NSCLC (ALK+)",
+    "NSCLC (Adenocarcinoma)",
+    "NSCLC (EGFR T790M+)",
+    "NSCLC (EGFR-Mutant)",
+    "NSCLC (EGFRm, MET+)",
+    "NSCLC (PIK3CA-Mutant)",
+    "NSCLC (RET+)",
+    "NSCLC (non-squamous)",
+    "SCLC (Small-Cell Lung Cancer)"
+  ],
+  "Gastric Cancer": [
+    "Advanced Gastric Cancer",
+    "Gastric Cancer",
+    "Gastric Cancer (CICs)",
+    "Gastric Cancer (CSCs)",
+    "Gastric Cancer (Epithelial)",
+    "Gastric Cancer (H. pylori+)",
+    "Gastric Cancer (HER2+)",
+    "Gastric Cancer (MSS)",
+    "Gastric Cancer (Metastatic)",
+    "Gastric Cancer (Peritoneal)",
+    "Gastric Cancer (Regional)",
+    "Gastric Cancer (Smad4-Deficient)",
+    "Gastric Cancer Liver Metastasis",
+    "Geriatric Gastric Cancer"
+  ],
+  "Melanoma": [
+    "Advanced Melanoma",
+    "Advanced Melanoma (Mucosal and Ocular Subtypes)",
+    "Cutaneous Melanoma",
+    "Melanoma",
+    "Melanoma (BRAF-Mutant)",
+    "Melanoma (NRAS-Mutant)",
+    "Melanoma (Non-V600 BRAF Mutant)",
+    "Metastatic Melanoma",
+    "Metastatic Melanoma (Cutaneous, Mucosal, Uveal)",
+    "Metastatic Melanoma (KIT-Amplified)",
+    "Metastatic Mucosal Melanoma",
+    "Metastatic Superficial Spreading Melanoma",
+    "Metastatic Uveal Melanoma",
+    "Refractory Metastatic Melanoma"
+  ],
+  "Other / Pan-Cancer": [
+    "Biological and Molecular Heterogeneous",
+    "Localized / Invasive Cancer",
+    "PCOS-Related Cancers",
+    "Pan-Cancer",
+    "Plasma Cell Myeloma"
+  ],
+  "Breast Cancer": [
+    "Breast Cancer",
+    "Breast Cancer (Heterogeneous Subtypes)",
+    "Breast Cancer (TNBC, HER2-Positive)",
+    "Breast Cancer Liver Metastasis",
+    "Breast Cancer Stem Cells (BCSCs)",
+    "Doxorubicin-Resistant Breast Cancer",
+    "ER-Positive Breast Cancer",
+    "ER-Positive and ER-Negative Breast Cancer",
+    "ER-Positive, ESR1-Mutant Breast Cancer",
+    "HER2-Positive Breast Cancer",
+    "Hormone Receptor-Positive Breast Cancer",
+    "Metaplastic Breast Cancer",
+    "Metastatic Breast Cancer",
+    "Metastatic ER-Positive Breast Cancer",
+    "Ovarian and Triple-Negative Breast Cancer",
+    "Quiescent Breast Cancer",
+    "Signaling-Driven Breast Cancer",
+    "Triple-negative breast cancer",
+    "Wnt-Dependent Breast Cancer"
+  ],
+  "Cervical Cancer": [
+    "Cervical Cancer"
+  ],
+  "Leukemia": [
+    "Chronic Lymphocytic Leukemia (CLL/SLL)"
+  ],
+  "Lymphoma": [
+    "Classical Hodgkin Lymphoma (Advanced Stage)",
+    "Classical Hodgkin Lymphoma (Early Stage)",
+    "Classical Hodgkin Lymphoma (Relapsed/Refractory)",
+    "Non-Hodgkin Lymphoma (Burkitt Lymphoma)",
+    "Non-Hodgkin Lymphoma (DLBCL - ABC Subtype)",
+    "Non-Hodgkin Lymphoma (DLBCL - Newly Diagnosed)",
+    "Non-Hodgkin Lymphoma (DLBCL - Non-GCB/Double-Hit)",
+    "Non-Hodgkin Lymphoma (DLBCL - Relapsed/Refractory)",
+    "Non-Hodgkin Lymphoma (Follicular Lymphoma)",
+    "Non-Hodgkin Lymphoma (Large B-Cell - Post-CAR T Relapse)",
+    "Non-Hodgkin Lymphoma (Large B-Cell, Aggressive Incl. High-Grade)",
+    "Non-Hodgkin Lymphoma (Large B-Cell, Aggressive)",
+    "Non-Hodgkin Lymphoma (Mantle Cell Lymphoma)",
+    "T-Cell Lymphoma / T-Cell Leukemia"
+  ],
+  "Colorectal Cancer": [
+    "Colorectal Cancer",
+    "Colorectal Cancer (HER2+)",
+    "Colorectal Cancer (Irinotecan)",
+    "Colorectal Cancer Liver Metastasis",
+    "Metastatic CRC (BRAF V600E+)",
+    "Metastatic CRC (RAS/RAF Wild-Type)",
+    "Metastatic Colorectal Cancer"
+  ],
+  "Endometrial Cancer": [
+    "Endometrial Cancer"
+  ],
+  "Gynaecological Cancer": [
+    "Gynaecological Cancer",
+    "Pan-Gynaecological"
+  ],
+  "Liver Cancer": [
+    "HBV-Associated Liver Cancer",
+    "Hepatocellular Carcinoma (HCC)",
+    "Liver Cancer",
+    "Liver Metastasis",
+    "Pancreatic Cancer Liver Metastasis"
+  ],
+  "Osteosarcoma": [
+    "Osteosarcoma",
+    "Osteosarcoma (Conventional)",
+    "Osteosarcoma (Heterogeneous)",
+    "Osteosarcoma (High-Grade)",
+    "Osteosarcoma (MYC-Overexpressed)",
+    "Osteosarcoma (Metastatic)",
+    "Osteosarcoma (Recurrent)",
+    "Osteosarcoma (Stem Cells)",
+    "Osteosarcoma and Chordoma",
+    "Primary Bone Osteosarcoma"
+  ],
+  "Ovarian Cancer": [
+    "Ovarian Cancer",
+    "Ovarian, Endometrial, Cervical (Combined)"
+  ],
+  "Pancreatic Cancer": [
+    "Pancreatic Cancer"
+  ],
+  "Prostate Cancer": [
+    "Prostate Cancer",
+    "Prostate Cancer (ATM-Deficient)",
+    "Prostate Cancer (Advanced)",
+    "Prostate Cancer (Castration-Resistant)",
+    "Prostate Cancer (Early Stage)",
+    "Prostate Cancer (Heterogeneous)",
+    "Prostate Cancer (Metastatic)",
+    "Prostate Cancer (Neuroendocrine)",
+    "Prostate Cancer (PTEN-Loss)",
+    "Prostate Cancer (Plastic Phenotype)",
+    "Prostate Cancer (Risk Assessment)",
+    "Prostate Cancer (mCRPC)"
+  ],
+  "Renal Cancer": [
+    "Renal Cancer"
+  ]
+}

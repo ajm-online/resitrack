@@ -1,0 +1,597 @@
+{
+  "Advanced EGFR+ NSCLC": [
+    "Advanced-stage (Stage III and IV)"
+  ],
+  "Advanced Gastric Cancer": [
+    "Advanced Stage"
+  ],
+  "Advanced Melanoma": [
+    "Advanced",
+    "III, IV",
+    "IIIB, IIIC, IV (IVM1a, IVM1b, IVM1c, IVM1d)",
+    "IIIc/IV",
+    "IV",
+    "Relapsed/Refractory (Rai Stage III?IV in 65%)",
+    "Resectable Stage III/IV",
+    "Stage III or IV"
+  ],
+  "Advanced Melanoma (Mucosal and Ocular Subtypes)": [
+    "III, IIIB, IV"
+  ],
+  "Advanced NSCLC": [
+    "97.5% metastatic.    (Stage III/IV)",
+    "Advanced stage.   (Stage III/IV)",
+    "Advanced.   (Stage III/IV)",
+    "Metastatic (Stage IVA/IVB)",
+    "Metastatic.   (Stage III/IV)"
+  ],
+  "Biological and Molecular Heterogeneous": [
+    "Stage I, II, III, & IV (Originating from breast cells)",
+    "Stage II, III, & IV (Progression stage)"
+  ],
+  "Breast Cancer": [
+    "Advanced Stage III?IV",
+    "Advanced Stage III?IV (Poor prognosis)",
+    "Advanced Stage III?IV (Vascularized)",
+    "Advanced Stage IV (Metastatic)",
+    "Advanced Stage IV (Metastatic/Recurrent)",
+    "Advanced Stage IV (Relapse/Survival)",
+    "Advanced stage III; metastatic stage IV",
+    "Early Stage I?II (Early dissemination)",
+    "Metastatic",
+    "Stage I & II (Screening and early resistance stage)",
+    "Stage I?IV (mixed cohort)",
+    "Stage II-III",
+    "Stage III & IV (Drug-resistant clinical stages)",
+    "Stage III & IV (MDR stage)",
+    "Stage III & IV (Poor prognosis stage)",
+    "Stage III & IV (Progression/Metastasis)",
+    "Stage III & IV (Refractory/Advanced)",
+    "Stage III (Invasive) to Stage IV (Metastatic)",
+    "Stage IV",
+    "Stage IV (Advanced malignancy)",
+    "Stage IV (Metastatic stage)",
+    "Stage IV (Metastatic)"
+  ],
+  "Breast Cancer (Heterogeneous Subtypes)": [
+    "Advanced stage III; metastatic stage IV",
+    "Early stage I?II; advanced stage III?IV",
+    "Stage I, II, III, & IV (Clinical feature overview)",
+    "Stage I?IV (including advanced disease)",
+    "Stage III?IV (Advanced)"
+  ],
+  "Breast Cancer (TNBC, HER2-Positive)": [
+    "Advanced stage III; metastatic stage IV"
+  ],
+  "Breast Cancer Liver Metastasis": [
+    "IV"
+  ],
+  "Breast Cancer Stem Cells (BCSCs)": [
+    "Stage I, II, III, & IV (Tumor growth stage)",
+    "Stage IV (Advanced / Metastatic)"
+  ],
+  "Cervical Cancer": [
+    "Localized / Advanced",
+    "Stage II-III",
+    "Variable Stages"
+  ],
+  "Chronic Lymphocytic Leukemia (CLL/SLL)": [
+    "Stage I?IV (All stages; time-limited therapy for early, watch-and-wait for asymptomatic)"
+  ],
+  "Classical Hodgkin Lymphoma (Advanced Stage)": [
+    "Stage III?IV (Advanced)"
+  ],
+  "Classical Hodgkin Lymphoma (Early Stage)": [
+    "Stage I?II (Early Stage)"
+  ],
+  "Classical Hodgkin Lymphoma (Relapsed/Refractory)": [
+    "Relapsed/Refractory (Stage III?IV)"
+  ],
+  "Colorectal Cancer": [
+    "Advanced (Stage T3 and T4)",
+    "Advanced, recurrent, and unresectable (includes Dukes? A, B, and C)",
+    "Advanced/Metastatic (disease that had not responded to prior chemotherapy)",
+    "Advanced; Recurrent; Metastatic vs. Non-metastatic samples",
+    "Clinical samples included pre-chemotherapy and relapsed (post-chemotherapy) tumours",
+    "Early (5-year survival 90%), locally advanced (70%), and metastatic (mCRC) (15%)",
+    "Early stages (asymptomatic)",
+    "Early-stage to Metastatic (mCRC); TNM stages I?IV are referenced throughout the clinical analyses",
+    "Metastatic",
+    "Metastatic (Stage IV)",
+    "Metastatic (mCRC)",
+    "Metastatic (mCRC) and non-metastatic (nmCRC); samples taken from primary tumor sites",
+    "Metastatic (mCRC); 20% present as metastatic at diagnosis, 25% develop it later",
+    "Metastatic CRC (MSI-H/dMMR)",
+    "Metastatic CRC (mCRC)",
+    "Pathological stages I?IV; also classified as early (T1, T2) or advanced (T3, T4) local spread",
+    "Predominantly Stage IV (78.4%) and Stage III (14.9%)",
+    "Primary, advanced, and metastatic",
+    "Reported as early-stage neoplasia, advanced stage, and metastatic disease (specifically liver metastasis)",
+    "Stage II, III, and Metastatic",
+    "Stage III; Metastatic (mCRC); Localised",
+    "Stages 0 to IV. This ranges from benign polyps (Stage ) and adenocarcinoma invading the muscularis propria (Stage I) to tissue invasion of the serosa (Stage II), visceral peritoneum (Stage III), and distant metastasis to the liver, lung, or bone (Stage IV)",
+    "Stages I, II (A/B), III (A/B/C), and IV (metastatic). Also classified as in situ, local, regional, and distant"
+  ],
+  "Colorectal Cancer (HER2+)": [
+    "Metastatic; associated with lung metastases and left-sided primaries"
+  ],
+  "Colorectal Cancer (Irinotecan)": [
+    "Stage II, Stage III, and Metastatic (mCRC)"
+  ],
+  "Colorectal Cancer Liver Metastasis": [
+    "IV",
+    "Stage IV"
+  ],
+  "Cutaneous Melanoma": [
+    "II, III",
+    "II, III, IV",
+    "III, IV",
+    "III, IV (Unresectable or Metastatic)",
+    "Stage III or IV"
+  ],
+  "Doxorubicin-Resistant Breast Cancer": [
+    "Stage IV (Advanced / Metastatic)"
+  ],
+  "ER-Positive Breast Cancer": [
+    "Advanced stage III; metastatic stage IV",
+    "Metastatic stage IV",
+    "Stage I?IV (Acquired resistance setting)",
+    "Stage IV (Metastatic / Advanced)"
+  ],
+  "ER-Positive and ER-Negative Breast Cancer": [
+    "Stage IV (Advanced / Metastatic)"
+  ],
+  "ER-Positive, ESR1-Mutant Breast Cancer": [
+    "Stage IV (Advanced / Metastatic)"
+  ],
+  "Endometrial Cancer": [
+    "Primary Stages",
+    "Stage I-IV",
+    "Variable Stages"
+  ],
+  "Gastric Cancer": [
+    "Advanced Stage",
+    "Metastatic",
+    "Metastatic Stage",
+    "Peritoneal Met",
+    "Stage III/IV",
+    "Stage IV",
+    "Variable Stages"
+  ],
+  "Gastric Cancer (CICs)": [
+    "Relapsed Stage"
+  ],
+  "Gastric Cancer (CSCs)": [
+    "Advanced Stage",
+    "Recurrent Stage"
+  ],
+  "Gastric Cancer (Epithelial)": [
+    "Stage I-IV"
+  ],
+  "Gastric Cancer (H. pylori+)": [
+    "Early Detection",
+    "Pre-cancerous / Early"
+  ],
+  "Gastric Cancer (HER2+)": [
+    "Advanced / Metastatic",
+    "Stage III/IV"
+  ],
+  "Gastric Cancer (MSS)": [
+    "Advanced Stage"
+  ],
+  "Gastric Cancer (Metastatic)": [
+    "Stage IV (Metastatic)"
+  ],
+  "Gastric Cancer (Peritoneal)": [
+    "Stage IV (Metastatic)"
+  ],
+  "Gastric Cancer (Regional)": [
+    "Variable Stages"
+  ],
+  "Gastric Cancer (Smad4-Deficient)": [
+    "Advanced Stage"
+  ],
+  "Gastric Cancer Liver Metastasis": [
+    "IV"
+  ],
+  "Geriatric Gastric Cancer": [
+    "Advanced Stage"
+  ],
+  "Gynaecological Cancer": [
+    "Advanced / Inoperable",
+    "Advanced Stage",
+    "Chronic Post-treatment",
+    "Pre-operative",
+    "Stage III/IV",
+    "Surgical Stage"
+  ],
+  "HBV-Associated Liver Cancer": [
+    "IV",
+    "Stage IV"
+  ],
+  "HER2-Positive Breast Cancer": [
+    "Advanced Stage IV (Relapse/Metastatic)",
+    "Stage II & III (High-risk trial stage)",
+    "Stage IV (Terminal/Advanced)"
+  ],
+  "Hepatocellular Carcinoma (HCC)": [
+    "IV",
+    "Stage IV"
+  ],
+  "Hormone Receptor-Positive Breast Cancer": [
+    "Early stage I?II; advanced stage III?IV"
+  ],
+  "Liver Cancer": [
+    "III",
+    "IV",
+    "Stage III/IV",
+    "Stage IV"
+  ],
+  "Liver Metastasis": [
+    "IV",
+    "Stage IV (Metastatic bone stage)",
+    "Stage IV (Metastatic)"
+  ],
+  "Localized / Invasive Cancer": [
+    "Stage I-III"
+  ],
+  "Lung Cancer": [
+    "Advanced Stage",
+    "Stage IV (Metastatic)"
+  ],
+  "Melanoma": [
+    "Advanced Metastatic (Unresectable Stage III B, III C, IV)",
+    "IIA?IV",
+    "III, IV",
+    "III, IV, Recurrent",
+    "III-IV (Advanced, Unresectable, or Metastatic)",
+    "III/IV",
+    "III/IV (specifically resectable IIIB/C or IV)",
+    "IV",
+    "IV (Metastatic)",
+    "Resectable Stage III/IV",
+    "Stage III, Stage IV (Advanced/Metastatic)",
+    "Stage IV"
+  ],
+  "Melanoma (BRAF-Mutant)": [
+    "III-IV (Advanced/Metastatic)",
+    "Stage IIIC to IV"
+  ],
+  "Melanoma (NRAS-Mutant)": [
+    "Stage IV (Advanced)"
+  ],
+  "Melanoma (Non-V600 BRAF Mutant)": [
+    "IV (Metastatic)"
+  ],
+  "Metaplastic Breast Cancer": [
+    "Stage III & IV (Unfavorable prognosis)"
+  ],
+  "Metastatic Breast Cancer": [
+    "Metastatic stage IV",
+    "Stage IV (Metastatic malignancy)"
+  ],
+  "Metastatic CRC (BRAF V600E+)": [
+    "Metastatic (Stage IV)"
+  ],
+  "Metastatic CRC (RAS/RAF Wild-Type)": [
+    "Metastatic disease"
+  ],
+  "Metastatic Colorectal Cancer": [
+    "IV",
+    "Metastatic (Refractory)",
+    "Metastatic (third-line setting). At initial diagnosis, patients were Stage I/II (14.0%), Stage III (33.1%), or Stage IV (51.7%)",
+    "Metastatic / Advanced stage (including postoperative recurrence and metastasis)",
+    "Metastatic disease",
+    "Metastatic(Stage IV)",
+    "Metastatic; Chemo-refractory",
+    "Metastatic; Refractory (post-progression on cetuximab or panitumumab)",
+    "Stage IV"
+  ],
+  "Metastatic ER-Positive Breast Cancer": [
+    "Metastatic stage IV"
+  ],
+  "Metastatic Melanoma": [
+    "III or IV",
+    "III, IV",
+    "III/IV",
+    "IV",
+    "Late Stage",
+    "Metastatic",
+    "Resectable Stage III/IV",
+    "Stage III (unresectable) or Stage IV",
+    "Stage III (unresectable), Stage IV (IVa, IVb, IVc)",
+    "Stage III or IV",
+    "Stage III/IV",
+    "Stage IV",
+    "Stage IV (Unresectable)"
+  ],
+  "Metastatic Melanoma (Cutaneous, Mucosal, Uveal)": [
+    "IIIc, IV"
+  ],
+  "Metastatic Melanoma (KIT-Amplified)": [
+    "Stage III or IV"
+  ],
+  "Metastatic Mucosal Melanoma": [
+    "III, IV"
+  ],
+  "Metastatic Superficial Spreading Melanoma": [
+    "IV"
+  ],
+  "Metastatic Uveal Melanoma": [
+    "Metastatic (AJCC stages M1a, M1b, M1c)"
+  ],
+  "NSCLC": [
+    "Advanced    (Stage III?IV)",
+    "Advanced / Metastatic   (Stage III?IV)",
+    "Advanced or Recurrent.     (Stage III/IV)",
+    "I?III",
+    "I?IV",
+    "III",
+    "III?IV",
+    "IV",
+    "Metastatic     (Stage IV)",
+    "Stage I (Screening / Early)",
+    "Stage I?II (Diagnostic evaluation)",
+    "Stage III?IV",
+    "Stage IIIB/IV",
+    "Stage IV"
+  ],
+  "NSCLC (ALK+)": [
+    "Advanced (Stage IIIB/IV)",
+    "Locally advanced or metastatic.    (Stage III/IV)",
+    "Stage III?IV"
+  ],
+  "NSCLC (Adenocarcinoma)": [
+    "Locally advanced or metastatic.   (Stage III/IV)"
+  ],
+  "NSCLC (EGFR T790M+)": [
+    "Locally advanced or metastatic"
+  ],
+  "NSCLC (EGFR-Mutant)": [
+    "95.1% Stage IV at diagnosis",
+    "Advanced   (Stage III?IV)",
+    "Advanced or metastatic.     (Stage IV)",
+    "Advanced stage (Stage IV)",
+    "Advanced.     (Stage III/IV)",
+    "Advanced.    (Stage III/IV)",
+    "Advanced.   (Stage III/IV)",
+    "Advanced/Metastatic.    (Stage IIIB?IV)",
+    "Locally advanced or metastatic",
+    "Locally advanced, unresectable stage IIIA-IIIC",
+    "Resectable stage IB-IIIA",
+    "Stage III?IV",
+    "Stage IV"
+  ],
+  "NSCLC (EGFRm, MET+)": [
+    "Stage III?IV"
+  ],
+  "NSCLC (PIK3CA-Mutant)": [
+    "Stage IV"
+  ],
+  "NSCLC (RET+)": [
+    "Metastatic ,   (Stage IV)",
+    "Stage IV"
+  ],
+  "NSCLC (non-squamous)": [
+    "Stage III?IV"
+  ],
+  "Non-Hodgkin Lymphoma (Burkitt Lymphoma)": [
+    "Stage I?IV (All stages including lower-risk adult patients)"
+  ],
+  "Non-Hodgkin Lymphoma (DLBCL - ABC Subtype)": [
+    "Stage III?IV (Advanced)"
+  ],
+  "Non-Hodgkin Lymphoma (DLBCL - Newly Diagnosed)": [
+    "Stage II?IV (Newly diagnosed; IPI score II?5)"
+  ],
+  "Non-Hodgkin Lymphoma (DLBCL - Non-GCB/Double-Hit)": [
+    "Relapsed/Refractory (Stage III?IV); post-CAR T failure included"
+  ],
+  "Non-Hodgkin Lymphoma (DLBCL - Relapsed/Refractory)": [
+    "Relapsed/Refractory (Stage III?IV)",
+    "Relapsed/Refractory (Stage III?IV; 60% had prior CAR T; \u00f2III prior lines)",
+    "Relapsed/Refractory (Stage III?IV; median 3.5 prior lines; all refractory to last therapy)",
+    "Relapsed/Refractory (Stage III?IV; transplant-ineligible or CAR T-ineligible)",
+    "Relapsed/Refractory (Stage III?IV; transplant-ineligible)"
+  ],
+  "Non-Hodgkin Lymphoma (Follicular Lymphoma)": [
+    "Relapsed/Refractory (Stage II?IV; \u00f2II prior lines)",
+    "Relapsed/Refractory (Stage III?IV)"
+  ],
+  "Non-Hodgkin Lymphoma (Large B-Cell - Post-CAR T Relapse)": [
+    "Relapsed/Refractory after prior CAR T therapy (Stage III?IV)"
+  ],
+  "Non-Hodgkin Lymphoma (Large B-Cell, Aggressive Incl. High-Grade)": [
+    "Relapsed/Refractory (Stage III?IV; heavily pre-treated; prior CAR T included)"
+  ],
+  "Non-Hodgkin Lymphoma (Large B-Cell, Aggressive)": [
+    "Relapsed/Refractory (Stage III?IV)"
+  ],
+  "Non-Hodgkin Lymphoma (Mantle Cell Lymphoma)": [
+    "Relapsed/Refractory (\u00f2II prior therapies; Stage III?IV)",
+    "Stage I?IV (Previously Untreated / Frontline)",
+    "Stage III?IV (High-risk, TP53-aberrant)"
+  ],
+  "Osteosarcoma": [
+    "Advanced",
+    "Advanced / Metastatic",
+    "Advanced / Resistant",
+    "Advanced Stage",
+    "In vivo / Advanced",
+    "Localized",
+    "Metastatic",
+    "Not Reported",
+    "Primary / Metastatic",
+    "Recurrent",
+    "Relapsed",
+    "Relapsed / Refractory",
+    "Stage II-IV",
+    "Stage IIB/III",
+    "Stage III",
+    "Stage III/IV",
+    "Stage III/Metastatic",
+    "Variable Stages"
+  ],
+  "Osteosarcoma (Conventional)": [
+    "Not Reported",
+    "Stage II-III",
+    "Stage IIB (Enneking)",
+    "Stage IIB/III"
+  ],
+  "Osteosarcoma (Heterogeneous)": [
+    "Metastatic"
+  ],
+  "Osteosarcoma (High-Grade)": [
+    "Advanced",
+    "Advanced / Metastatic",
+    "Not Reported",
+    "Stage II",
+    "Stage II-III",
+    "Stage IIB/III",
+    "Stage III / Metastatic"
+  ],
+  "Osteosarcoma (MYC-Overexpressed)": [
+    "High-risk / Metastatic"
+  ],
+  "Osteosarcoma (Metastatic)": [
+    "Stage IV",
+    "Stage IV (Metastatic)"
+  ],
+  "Osteosarcoma (Recurrent)": [
+    "Recurrent / Metastatic"
+  ],
+  "Osteosarcoma (Stem Cells)": [
+    "Recurrent"
+  ],
+  "Osteosarcoma and Chordoma": [
+    "Localized / Advanced"
+  ],
+  "Ovarian Cancer": [
+    "Advanced Stage",
+    "Resistant / Relapsed",
+    "Stage I-IV",
+    "Stage III/IV",
+    "Stage IV (Metastatic)"
+  ],
+  "Ovarian and Triple-Negative Breast Cancer": [
+    "Advanced / Metastatic"
+  ],
+  "Ovarian, Endometrial, Cervical (Combined)": [
+    "Advanced Stage",
+    "Post-treatment",
+    "Pre-cancerous",
+    "Variable Stages"
+  ],
+  "PCOS-Related Cancers": [
+    "Early Prediction",
+    "Pre-cancerous / Risk"
+  ],
+  "Pan-Cancer": [
+    "Advanced",
+    "Recurrent",
+    "Stage III or IV"
+  ],
+  "Pan-Gynaecological": [
+    "Advanced",
+    "Advanced Stage",
+    "Variable Stages"
+  ],
+  "Pancreatic Cancer": [
+    "IV",
+    "Stage IV"
+  ],
+  "Pancreatic Cancer Liver Metastasis": [
+    "IV"
+  ],
+  "Plasma Cell Myeloma": [
+    "Relapsed/Refractory"
+  ],
+  "Primary Bone Osteosarcoma": [
+    "Localized / Metastatic"
+  ],
+  "Prostate Cancer": [
+    "Advanced",
+    "Advanced / Metastatic",
+    "Advanced Stage",
+    "Localized",
+    "Localized / Advanced",
+    "Recurrent",
+    "Recurrent / Resistant",
+    "Stage III/IV",
+    "Stage IV",
+    "Variable Stages",
+    "mCRPC"
+  ],
+  "Prostate Cancer (ATM-Deficient)": [
+    "Metastatic",
+    "Metastatic (mPC)"
+  ],
+  "Prostate Cancer (Advanced)": [
+    "Advanced",
+    "Advanced Stage",
+    "Metastatic"
+  ],
+  "Prostate Cancer (Castration-Resistant)": [
+    "Advanced",
+    "Advanced Stage",
+    "CRPC",
+    "Relapsed"
+  ],
+  "Prostate Cancer (Early Stage)": [
+    "Stage I-II"
+  ],
+  "Prostate Cancer (Heterogeneous)": [
+    "Variable Stages"
+  ],
+  "Prostate Cancer (Metastatic)": [
+    "IV",
+    "Stage IV",
+    "Stage IV (Bone Metastasis)",
+    "Stage IV / Metastatic"
+  ],
+  "Prostate Cancer (Neuroendocrine)": [
+    "Recurrent"
+  ],
+  "Prostate Cancer (PTEN-Loss)": [
+    "Advanced Stage"
+  ],
+  "Prostate Cancer (Plastic Phenotype)": [
+    "Recurrent"
+  ],
+  "Prostate Cancer (Risk Assessment)": [
+    "Early / Latent"
+  ],
+  "Prostate Cancer (mCRPC)": [
+    "Advanced",
+    "Metastatic (mCRPC)",
+    "Stage IV"
+  ],
+  "Quiescent Breast Cancer": [
+    "Stage III & IV (Quiescent/Pre-relapse stage)"
+  ],
+  "Refractory Metastatic Melanoma": [
+    "IV"
+  ],
+  "Renal Cancer": [
+    "IV"
+  ],
+  "SCLC (Small-Cell Lung Cancer)": [
+    "Extensive-stage (ES-SCLC); metastatic disease        (Stage IV)",
+    "IV"
+  ],
+  "Signaling-Driven Breast Cancer": [
+    "Stage III?IV (Advanced)"
+  ],
+  "T-Cell Lymphoma / T-Cell Leukemia": [
+    "All Stages (TRBC2-positive T-cell malignancies)",
+    "Relapsed/Refractory (Stage III?IV)",
+    "Relapsed/Refractory (Stage III?IV; \u00f2I prior therapy; including T-PLL untreated arm)",
+    "Stage III?IV (Advanced/Aggressive)"
+  ],
+  "Triple-negative breast cancer": [
+    "Advanced stage III; metastatic stage IV"
+  ],
+  "Wnt-Dependent Breast Cancer": [
+    "Stage III?IV (Advanced)"
+  ]
+}
