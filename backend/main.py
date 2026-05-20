@@ -2,7 +2,7 @@
 from fastapi import FastAPI, Query, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
-from fastapi.responses import FileResponse
+from fastapi.responses import FileResponse, RedirectResponse
 from pydantic import BaseModel
 import sqlite3, json, joblib, os, re
 import pandas as pd, numpy as np
@@ -148,8 +148,10 @@ def predict(req: PredictRequest):
 def health(): return {"status":"ok", "model":"LightGBM-13feat", "version":"6.0",
                       "test_auc":0.9995, "test_accuracy":0.9910}
 
-if os.path.exists(FRONT_DIR): app.mount("/static", StaticFiles(directory=FRONT_DIR), name="static")
-@app.get("/")
-def index():
-    p = os.path.join(FRONT_DIR, "index.html")
-    return FileResponse(p) if os.path.exists(p) else {"status":"ResiTrack API v6"}
+
+if os.path.exists(FRONT_DIR):
+    app.mount("/static", StaticFiles(directory=FRONT_DIR), name="static")
+
+@app.get("/", include_in_schema=False)
+def root():
+    return RedirectResponse(url="/static/index.html")
